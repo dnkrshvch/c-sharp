@@ -1,0 +1,15 @@
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\obj\Debug\net9.0\shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\obj\Debug\net9.0\shop.AssemblyInfoInputs.cache
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\obj\Debug\net9.0\shop.AssemblyInfo.cs
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\obj\Debug\net9.0\shop.csproj.CoreCompileInputs.cache
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\obj\Debug\net9.0\shop.sourcelink.json
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\bin\Debug\net9.0\shop.exe
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\bin\Debug\net9.0\shop.deps.json
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\bin\Debug\net9.0\shop.runtimeconfig.json
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\bin\Debug\net9.0\shop.dll
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\bin\Debug\net9.0\shop.pdb
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\obj\Debug\net9.0\shop.dll
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\obj\Debug\net9.0\refint\shop.dll
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\obj\Debug\net9.0\shop.pdb
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\obj\Debug\net9.0\shop.genruntimeconfig.cache
+C:\Users\dnkrs\OneDrive\Desktop\Repository\C#_metanit\Class\shop\obj\Debug\net9.0\ref\shop.dll
